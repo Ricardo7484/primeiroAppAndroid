@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">App</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Enviar</string>
+    <string name="inseri_nome">Informe o nome</string>
+    <string name="inseri_endereço">Informe o endereço</string>
+</resources>
